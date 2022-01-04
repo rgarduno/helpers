@@ -8,8 +8,6 @@
 
 The [Helpers](https://rgarduno.com/helpers) library exported as a [UMD](https://github.com/umdjs/umd) module.
 
-Lodash is released under the [MIT license](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/LICENSE) & supports modern environments.<br>
-
 ## Installation
 
 Using npm:

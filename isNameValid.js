@@ -4,9 +4,9 @@
  * @param  {String} value A name.
  * @return {Bool}
  */
-const isValidName = (value) => {
+const isNameValid = (value) => {
   const nameRe = /^[a-z ,.'-]+$/i
   return nameRe.test(value)
 }
 
-module.exports = isValidName
+module.exports = isNameValid
